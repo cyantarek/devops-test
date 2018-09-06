@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83824c49-22f5-4acb-8a7f-9c6ca8f5aa7c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/GoReporter_Static_Code_Analysis-2018-09-05-06-55-34.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/GoReporter_Static_Code_Analysis-2018-09-05-06-58-30.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/GoReporter_Static_Code_Analysis-2018-09-05-07-12-03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/GoReporter_Static_Code_Analysis-2018-09-05-07-14-24.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/devops-test" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
